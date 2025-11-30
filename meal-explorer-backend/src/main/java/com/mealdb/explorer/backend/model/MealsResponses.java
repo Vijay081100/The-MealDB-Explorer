@@ -36,8 +36,7 @@ public class MealsResponses {
 	}
 
 	public List<Meal> searchByMeals() {
-		
-		return null;
+		return meals;
 	}
 	
 	
